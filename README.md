@@ -4,6 +4,9 @@ Colaboratory는 머신러닝 교육과 연구를 위한 서비스다. Colaborato
 
 쉽게 이야기하면 Jupyter notebook 의 공짜 서비스라고 할 수 있습니다. 이 정도만 해도 그냥 그저 그런 서비스였겠지만!!<br>
 
+아래는 Colaboratoty 에서 제공하는 GPU 정보입니다.<br><br>
+![](https://cdn-images-1.medium.com/max/1600/1*upUpzcXJatEiH8flyGZlCQ.png)
+
 JUPYTER NOTEBOOK vs Colaboratory
 Colaboratory 는 GPU를 제공합니다. 무려 K80 GPU(GPU 11.4GB)를 말입니다. <br>
 
