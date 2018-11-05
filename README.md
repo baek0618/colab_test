@@ -10,4 +10,6 @@ Colaboratory는 머신러닝 교육과 연구를 위한 서비스다. Colaborato
 JUPYTER NOTEBOOK vs Colaboratory
 Colaboratory 는 GPU를 제공합니다. 무려 K80 GPU(GPU 11.4GB)를 말입니다. <br>
 
-물론 제한은 있습니다. 한 번에 12 시간 동안만 무료로 GPU를 백엔드로 사용할 수 있다는 것입니다. 이 12 시간 제한은 단일 VM 할당 제한으로 CPU, GPU, STORAGE에 모두 적용됩니다. 하지만, 일일 제한이 없으므로 12 시간 동안 VM 사용 후 바로 다른 VM을 사용할 수 있습니다.
+물론 제한은 있습니다. 한 번에 12 시간 동안만 무료로 GPU를 백엔드로 사용할 수 있다는 것입니다. 이 12 시간 제한은 단일 VM 할당 제한으로 CPU, GPU, STORAGE에 모두 적용됩니다. 하지만, 일일 제한이 없으므로 12 시간 동안 VM 사용 후 바로 다른 VM을 사용할 수 있습니다.<br>
+<br>
+* github - colab 연동 : https://colab.research.google.com/
